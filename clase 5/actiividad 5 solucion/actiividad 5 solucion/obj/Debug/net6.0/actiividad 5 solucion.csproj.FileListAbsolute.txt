@@ -1,0 +1,15 @@
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\bin\Debug\net6.0\actiividad 5 solucion.exe
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\bin\Debug\net6.0\actiividad 5 solucion.deps.json
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\bin\Debug\net6.0\actiividad 5 solucion.runtimeconfig.json
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\bin\Debug\net6.0\actiividad 5 solucion.dll
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\bin\Debug\net6.0\actiividad 5 solucion.pdb
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.csproj.AssemblyReference.cache
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.AssemblyInfoInputs.cache
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.AssemblyInfo.cs
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.dll
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\refint\actiividad 5 solucion.dll
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.pdb
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\actiividad 5 solucion.genruntimeconfig.cache
+C:\Users\Pili\Documents\piliColegio\Curso.net\actiividad 5 solucion\actiividad 5 solucion\obj\Debug\net6.0\ref\actiividad 5 solucion.dll
